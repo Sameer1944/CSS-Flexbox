@@ -1,0 +1,26 @@
+.div1{
+    display: flex;
+    height: 60vh;
+    width: 50vh;
+    background-color: gray;
+    color: white;
+    /* justify-content: center; */
+}
+
+.temp{
+    display: flex;
+    flex-direction: column;
+    width:100%;
+    /* align-self: center; */
+    justify-content: space-between;
+    /* align-self:center; */
+}
+
+.box{
+    height: 20vh;
+    width: 20vh;
+    background-color: black;
+    align-self:center;
+    justify-content: space-between;
+    margin-left: -5vw;
+}

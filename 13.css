@@ -1,0 +1,48 @@
+.cont{
+    display: flex;
+    flex-direction: column;
+    color: white;
+}
+
+.div1{
+    color: white;
+    height: 20vh;
+    width: 20vh;
+    background-color: black;
+}
+
+.div2{
+    color: white;
+    height: 20vh;
+    width: 20vh;
+    background-color: gray;
+    margin-top: -10vh;
+    margin-left: 10vh;
+}
+
+.div3{
+    color: white;
+    height: 20vh;
+    width: 20vh;
+    background-color: black;
+    margin-top: -10vh;
+    margin-left: 20vh;
+}
+
+.div4{
+    color: white;
+    height: 20vh;
+    width: 20vh;
+    background-color: gray;
+    margin-top: -10vh;
+    margin-left: 30vh;
+}
+
+.div5{
+    color: white;
+    height: 20vh;
+    width: 20vh;
+    background-color: black;
+    margin-top: -10vh;
+    margin-left: 40vh;
+}

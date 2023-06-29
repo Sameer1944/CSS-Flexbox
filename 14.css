@@ -1,0 +1,20 @@
+.c{
+    display: flex;
+    color: white;
+    justify-content: flex-end;
+}
+
+.div1{
+    display: flex;
+    height: 40vh;
+    width: 40vh;
+    background-color: gray;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.div2{
+    height: 20vh;
+    width: 20vh;
+    background-color: black;
+}

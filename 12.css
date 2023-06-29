@@ -1,0 +1,27 @@
+.div1{
+    display: flex;
+    color: white;
+    background-color: darkgray;
+    height: 60vh;
+    width: 40vh;
+    justify-content: space-between;
+}
+
+.div2{
+    display: flex;
+    align-self: flex-end;
+    height: 30vh;
+    width: 28vh;
+    /* justify-content: space-between; */
+    background-color: black;
+    margin-right: -14vh;
+}
+
+.div3{
+    height: 20vh;
+    width: 20vh;
+    align-self: flex-end;
+    background-color: blue;
+    margin-bottom: -10vh;
+    margin-left: -10vh;
+}

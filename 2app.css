@@ -1,0 +1,26 @@
+.container{
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+}
+div{
+    color: white;
+}
+.box1{
+    align-self: flex-start;
+    background-color: black;
+    height: 20vh;
+    width: 20vh;
+}
+.box2{
+    align-self: center;
+    background-color: black;
+    height: 20vh;
+    width: 20vh;
+}
+.box3{
+    align-self: flex-end;
+    background-color: black;
+    height: 20vh;
+    width: 20vh;
+}

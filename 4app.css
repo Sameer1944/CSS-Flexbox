@@ -1,0 +1,15 @@
+
+.box1{
+    width: 20vh;
+    height: 20vh;
+    color: white;
+    background-color:black;
+}
+.box2{
+    margin-top: -10vh;
+    margin-left: 10vh;
+    width: 20vh;
+    height: 20vh;
+    color: white;
+    background-color:gray;
+}
